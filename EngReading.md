@@ -8,3 +8,7 @@ What are 3 things I’ll start doing to “un-stick” myself whenever I get stu
 -Take a break.
 -Ask for help.
 -Breaking it down.
+
+## Things I want to know more about
+
+how to improve myself
