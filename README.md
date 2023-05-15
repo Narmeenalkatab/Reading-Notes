@@ -11,3 +11,5 @@
 4- [class-4](./class04.md)
 
 5- [class-5](./class05.md)
+
+6- [class-7](./class07.md)
