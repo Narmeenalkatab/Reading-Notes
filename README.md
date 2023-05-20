@@ -14,4 +14,4 @@
 
 6- [class-7](./class07.md)
 
-7- [class-8](./class08.md)
+7- [class-8](./Class08.md)
