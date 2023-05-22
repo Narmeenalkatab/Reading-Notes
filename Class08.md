@@ -32,7 +32,7 @@ A decorator in Python is a way to modify the behavior of a function or class wit
 Decorators work by taking the decorated object as an input, modifying it or adding some behavior, and returning a new object or function that incorporates the changes. They provide a way to extend or enhance the functionality of existing functions or classes without modifying their original implementation.
 ex:
 
-```def uppercase_decorator(func):
+`def uppercase_decorator(func):
     def wrapper():
         result = func()
         return result.upper()
@@ -42,7 +42,7 @@ ex:
 def greet():
     return "hello"
 
-print(greet())```
+print(greet())`
 output HELLO
 
 ## Things I want to know more about
