@@ -19,3 +19,5 @@
 8- [class-9](./Class-09.md)
 
 9- [class-11](./class11.md)
+
+10- [class-12](./class12.md)
