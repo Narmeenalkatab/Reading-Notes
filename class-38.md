@@ -32,5 +32,3 @@ function Greeting({ isLoggedIn }) {
 
 5. **Reusable Components:** Design components for reusability across the app.
 ```
-
-Feel free to use this shortened content in your `.md` file for reference. If you have further questions or need more assistance, please let me know!
