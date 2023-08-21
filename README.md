@@ -51,3 +51,5 @@
 24-[graph3](./class-38.md)
 
 25-[react](./class-39.md)
+
+26-[Next.js](./class-41.md)
